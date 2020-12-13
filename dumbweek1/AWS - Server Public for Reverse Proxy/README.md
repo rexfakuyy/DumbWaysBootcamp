@@ -10,7 +10,7 @@
     ![4](https://user-images.githubusercontent.com/45087061/102004288-de7f8600-3d41-11eb-8d2b-61cf251031c5.png)
     ![3](https://user-images.githubusercontent.com/45087061/102004282-d58eb480-3d41-11eb-89bd-7dda3e4173c1.png)
 
-- Kemudian buatlah file bernama `housy.conf` pada directory `etc/nginx/sites-available` untuk configurasi reverse proxynya dan di isi seperti gambar berikut\
+- Kemudian buatlah file bernama `housy.conf` pada directory `etc/nginx/sites-available` untuk configurasi reverse proxynya dan di isi seperti gambar berikut
 
 **NOTED: JANGAN GUNAKAN TOMBOL TAB UNTUK MEMBERI JARAK PADA SAAT PENULISAN SCRIPT KARENA AKAN MENIMBULKAN ERROR! GUNAKANLAH TOMBOL SPASI**
   ![5](https://user-images.githubusercontent.com/45087061/102004311-1e466d80-3d42-11eb-8fb2-1d6b98e8d3d6.png)
