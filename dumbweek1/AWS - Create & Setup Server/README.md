@@ -65,7 +65,6 @@ Cara berikut saya lakukan pada kedua server untuk menghilangkan key-pair saat lo
 ![16](https://user-images.githubusercontent.com/45087061/101788871-2f6d5f80-3b33-11eb-92c5-b1d0a5ba6ad8.png)
 
 - Kemudian login ssh dari terminal komputer menggunakan perintah `ssh -1 key-pair ubuntu@ip-public`, gunakan IP Public pada instance yang telah dibuat
-
 ![17](https://user-images.githubusercontent.com/45087061/101789491-f1247000-3b33-11eb-8209-dc090656f6eb.png)
 
 - Setelah berhasil masuk akan seperti ini
