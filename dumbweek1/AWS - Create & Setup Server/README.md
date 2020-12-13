@@ -60,7 +60,8 @@ Setelah selesai maka akan jadi seperti ini yang akan diberi nama\
 # SSH KE SERVER PUBLIC
 
 Cara berikut saya lakukan pada kedua server untuk menghilangkan key-pair saat login:
-- Buka terminal pada komputer lalu ubah permission pada file key-pair yang telah di download tadi dengan perintah `chmod 400 key-pair.pem`
+- Buka terminal pada komputer lalu ubah permission pada file key-pair yang telah di download tadi dengan perintah\
+`chmod 400 key-pair.pem`
 ![16](https://user-images.githubusercontent.com/45087061/101788871-2f6d5f80-3b33-11eb-92c5-b1d0a5ba6ad8.png)
 
 - Kemudian login ssh dari terminal komputer menggunakan perintah `ssh -1 key-pair ubuntu@ip-public`, gunakan IP Public pada instance yang telah dibuat
