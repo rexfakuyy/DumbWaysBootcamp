@@ -1,1 +1,1 @@
-# List Tugas DevOps DumbWays.id
+# List Tugas Mingguan DevOps Dumbways.id
