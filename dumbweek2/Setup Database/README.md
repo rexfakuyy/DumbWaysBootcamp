@@ -3,7 +3,7 @@
 - Install mysql pada server database dengan perintah `sudo apt install mysql-client mysql-server` dan pilih mysql versi 5.7
   ![Screen Shot 2020-12-15 at 20 17 49](https://user-images.githubusercontent.com/45087061/102738443-bbc22280-437c-11eb-9b77-fb3f015d44f9.png)
 
-- Dalam proses instalasi mysql lewat apt, saya tidak diberi kesempatan untuk membuat user baru, jadi user default sudah ada `root dan tanpa password`, untuk menambahkan user baru perlu masuk dahulu ke mysql dan jalankan perintah:
+- Dalam proses instalasi mysql lewat apt, saya tidak diberi kesempatan untuk membuat user baru, jadi user default sudah ada `root dan tanpa password`, untuk menambahkan user baru perlu masuk dahulu ke mysql dan jalankan perintah:\
 `ALTER USER 'root'@'localhost' IDENTIFIED WITH mysql_native_password BY 'inipassword';`
   ![Screen Shot 2020-12-16 at 10 26 03](https://user-images.githubusercontent.com/45087061/102738561-152a5180-437d-11eb-9160-76753345ea71.png)
 
