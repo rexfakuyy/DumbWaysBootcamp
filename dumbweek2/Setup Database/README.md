@@ -8,7 +8,9 @@
   ![Screen Shot 2020-12-16 at 10 26 03](https://user-images.githubusercontent.com/45087061/102738561-152a5180-437d-11eb-9160-76753345ea71.png)
 
 - Setelah password root diganti, coba relogin ke mysql dengan password baru, setelah berhasil, buatlah database baru bernama housy dengan perintah `create database housy;`
-  ![Screen Shot 2020-12-16 at 10 30 15](https://user-images.githubusercontent.com/45087061/102738653-5e7aa100-437d-11eb-8e6c-4c397e72ca91.png)
+  ![Screen Shot 2020-12-16 at 10 30 15](https://user-images.githubusercontent.com/45087061/102738653-5e7aa100-437d-11eb-8e6c-4c397e72ca91.png)\
+  ![Screen Shot 2020-12-19 at 10 26 30](https://user-images.githubusercontent.com/45087061/102739691-6851d380-4380-11eb-83e4-16c314636f24.png)
+
 
 - Buat user baru untuk mengakses server database dari server backend dan beri akses penuh dengan perintah:
   - `create user 'namauser'@'ip-server-backend' identified by 'disini-passwordnya';`
